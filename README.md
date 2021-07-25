@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning backend development (Django)
 - 💬 Ask me about anything that you want to learn
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-furkan-koprulu/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15763253/krnsoo)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsnfrkn32@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-durkan/)
+[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15343330/sofiadurkan)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sofiadurkan@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@sofiadurkan)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-furkan" alt="hasan-furkan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiadurkan1" alt="sofiadurkan1" /> </p>
 
 ## 💻 Frontend
 
@@ -44,7 +44,7 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-furkan&theme=buefy&" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=sofiadurkan1&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiadurkan1&theme=buefy&" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiadurkan1&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 
