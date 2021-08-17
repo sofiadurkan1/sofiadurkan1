@@ -1,6 +1,6 @@
 ## Hi there. I'm Sofia Durkan...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Bootstrap | SASS | HTML | CSS)
 - 🌱 I’m currently learning backend development (Django)
 - 💬 Ask me about anything that you want to learn
 
